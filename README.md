@@ -19,5 +19,5 @@ MarketPlacePOS is a simple and efficient **Point of Sale (POS) system** designed
 - **Firebase** - Hosting and database (if applicable)
 
 ## 📧 Contact
-🔗 GitHub: [Matheesha-Abiman](https://github.com/Matheesha-Abiman)
+🔗 GitHub: [indumakaweeshvara](https://github.com/indumakaweeshvara)
 
